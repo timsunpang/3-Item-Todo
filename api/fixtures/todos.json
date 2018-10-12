@@ -1,0 +1,14 @@
+[
+	{
+		"model": "api.Todo",
+		"pk": 1,
+		"fields": {
+			"title": "Get a job",
+			"description": "Get that SD job",
+			"completed": false,
+			"todolist": 1,
+      "created": "2018-07-24 00:00:00",
+      "last_modified": "2018-07-24 00:00:00"
+		}
+	}
+]

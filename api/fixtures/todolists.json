@@ -1,0 +1,10 @@
+[
+	{
+		"model": "api.TodoList",
+		"pk": 1,
+		"fields": {
+      "created": "2018-07-24 00:00:00",
+      "last_modified": "2018-07-24 00:00:00"
+		}
+	}
+]
